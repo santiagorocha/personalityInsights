@@ -18,6 +18,12 @@ body
     padding: 0.5em;
 }
 
+#header #logo
+{
+    width: 200px;
+    vertical-align: middle;
+}
+
 #header #tagline
 {
     padding: 0 0 0 1em;
