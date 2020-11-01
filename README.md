@@ -15,3 +15,6 @@ Some dependencies should be installed:
 
 * Django
 * Python 3
+* Python 3
+* Dbs
+* IBM library
