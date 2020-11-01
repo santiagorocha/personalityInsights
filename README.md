@@ -5,4 +5,6 @@ determine some personality behaviors of the evaluated subject.
 
 Main 1
 
+Main 2
+
 Some dependencies should be installed:
