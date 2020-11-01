@@ -12,3 +12,6 @@ Main 1
 Main 2
 
 Some dependencies should be installed:
+
+* Django
+* Python 3
